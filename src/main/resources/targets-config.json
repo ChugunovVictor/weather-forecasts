@@ -1,0 +1,8 @@
+{
+  "targets" : [
+    { "title" : "Saint-Petersburg", "latitude": 59.57, "longitude": 30.19, "expectedMinTemperature": -5, "expectedMaxTemperature": 0 },
+    { "title" : "Helsinki", "latitude": 60.1924, "longitude": 24.5655, "expectedMinTemperature": 2, "expectedMaxTemperature": 8  },
+    { "title" : "Vancouver", "latitude": 49.15, "longitude": 123.6, "expectedMinTemperature": 0, "expectedMaxTemperature": 10  },
+    { "title" : "Sydney", "latitude": 33.5154, "longitude": 151.1234, "expectedMinTemperature": 15, "expectedMaxTemperature": 25  }
+  ]
+}
